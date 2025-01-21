@@ -72,7 +72,3 @@ The script commits and pushes the resulting CSV file to a Git repository. Ensure
 - Replace `/path/to/your/logs` with the actual path to your log file directory.
 - Replace `<your_token>` with your GitHub personal access token.
 - Ensure that the `nginx.log` file exists in the specified directory.
-
-## License
-This project is licensed under the MIT License.
-

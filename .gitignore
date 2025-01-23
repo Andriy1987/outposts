@@ -1,5 +1,2 @@
 # Ignore the script file
 parse_nginx_logs.py
-
-# Ignore CSV output files
-parsed_logs_*.csv
